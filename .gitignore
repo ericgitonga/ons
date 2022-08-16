@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+temp/
+*.ipynb
+ons_*.jpg
+ons_*.png
+.spyproject/
+
