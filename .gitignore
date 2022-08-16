@@ -4,4 +4,5 @@ temp/
 ons_*.jpg
 ons_*.png
 .spyproject/
-
+.streamlit/config.toml
+images/
